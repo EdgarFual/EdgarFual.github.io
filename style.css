@@ -288,7 +288,7 @@ h3{
     width: 80%;
     background-image: linear-gradient(rgba(41, 41, 41, 0.597),rgba(29, 28, 28, 0.493)),url(https://firebasestorage.googleapis.com/v0/b/bdproyecto-24db2.appspot.com/o/web%2F6.jpg?alt=media&token=1dc0deaa-65af-477e-af0c-cf10d32de6fb);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     border-radius: 10px;
     text-align: center;
     padding: 100px 0;
