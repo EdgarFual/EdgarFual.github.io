@@ -91,7 +91,7 @@ nav svg{
         font-size: 20px;
     }
     .nav-links ul li{
-        display: block;
+        display: hidden;
     }
     .nav-links{
         position: absolute;
